@@ -15,7 +15,7 @@ int main()
 	cout << "Листинг stock1 и stock2 : \n";
 	stock1.show();
 	stock2.show();
-	cout << " Применение конструктора для сброса объекта \n";
+	cout << " Примен123ение конструктора для сброса объекта \n";
 	stock1 = Stock("Nifty Foods ", 10, 50.0);
 	cout << "Измененный stock1 : \n";
 	stock1.show();
