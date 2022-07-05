@@ -1,0 +1,8 @@
+1
+max
+1500
+cat
+0
+vlad
+1000
+hotdog
