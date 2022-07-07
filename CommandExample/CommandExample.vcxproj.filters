@@ -24,6 +24,9 @@
     <ClCompile Include="home CloneFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\C++\Project C++\Home Base 09_1 do while\Home Base 09_1 do while\Home Base 09_1 do while.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stock.h">

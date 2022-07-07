@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\C++\Project C++\Home Base 09_1 do while\Home Base 09_1 do while\Home Base 09_1 do while.cpp" />
     <ClCompile Include="home CloneFile.cpp" />
     <ClCompile Include="home1.cpp" />
     <ClCompile Include="Stock.cpp" />
