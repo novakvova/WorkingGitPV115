@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\dkhpr\source\repos\4.5\4.5\Student.h(19,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  31 of 199 functions (15.6%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  4.5.vcxproj -> C:\Users\dkhpr\source\repos\4.5\x64\Release\4.5.exe
